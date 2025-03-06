@@ -40,16 +40,7 @@ CREATE TABLE fernetdata (
 );
 ```
 
-### 4️ Update Database Credentials
-Modify the database connection details in the **config.py** file:
-```python
-DB_CONFIG = {
-    'host': 'your_host',
-    'database': 'your_database',
-    'user': 'your_username',
-    'password': 'your_password'
-}
-```
+
 
 ### 5️ Run the Application
 Execute the script:
@@ -62,5 +53,5 @@ This project is open-source .
 
 
 ---
- TNAML YOU!!!!!!
+ THANK YOU!!!!!!
 
